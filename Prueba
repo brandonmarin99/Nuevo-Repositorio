@@ -1,7 +1,9 @@
 #include<stdio.h>
-
 int main(){
-  printf("\nHola Mundo");
-  printf("\nBrandon Marin\n")
-  return 0;
+printf("\nHola Mundo");
+printf("\nBrandon Marin\n")
+printf(“Este es mi segundo codigo”);
+printf(“Programar es facil”);
+printf(“Voy a compartir con mi compañero el codigo”);
+return 0;
 }
